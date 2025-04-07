@@ -1,0 +1,22 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+      "image": "https://source.unsplash.com/featured/?spaghetti"
+    },
+    {
+      "id": 2,
+      "title": "Tandoori Chicken",
+      "description": "Spicy grilled chicken prepared with yogurt and tandoori masala.",
+      "image": "https://source.unsplash.com/featured/?chicken"
+    },
+    {
+      "id": 3,
+      "title": "Veggie Stir Fry",
+      "description": "Quick and healthy stir-fried vegetables in soy sauce and sesame oil.",
+      "image": "https://source.unsplash.com/featured/?vegetables"
+    }
+  ]
+}
